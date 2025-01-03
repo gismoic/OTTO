@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OTTO_Parts")(type "KiCad")(uri "${KIPRJMOD}/OTTO_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "OTTO")(type "KiCad")(uri "${KIPRJMOD}/OTTO.kicad_sym")(options "")(descr ""))
+)
